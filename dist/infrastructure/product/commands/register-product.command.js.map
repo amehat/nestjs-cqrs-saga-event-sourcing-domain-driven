@@ -1,0 +1,1 @@
+{"version":3,"file":"register-product.command.js","sourceRoot":"","sources":["../../../../src/infrastructure/product/commands/register-product.command.ts"],"names":[],"mappings":";;AAAA,MAAa,sBAAsB;IACjC,YACkB,IAAY,EACZ,GAAW,EACX,KAAa,EACb,QAAgB;QAHhB,SAAI,GAAJ,IAAI,CAAQ;QACZ,QAAG,GAAH,GAAG,CAAQ;QACX,UAAK,GAAL,KAAK,CAAQ;QACb,aAAQ,GAAR,QAAQ,CAAQ;IAC/B,CAAC;CACL;AAPD,wDAOC"}

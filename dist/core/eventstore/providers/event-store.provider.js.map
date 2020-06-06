@@ -1,0 +1,1 @@
+{"version":3,"file":"event-store.provider.js","sourceRoot":"","sources":["../../../../src/core/eventstore/providers/event-store.provider.ts"],"names":[],"mappings":";;AAEA,qEAA2D;AAE9C,QAAA,kBAAkB,GAAG;IAChC;QACI,OAAO,EAAE,wBAAwB;QACjC,UAAU,EAAE,CAAC,UAAsB,EAAE,EAAE,CAAC,UAAU,CAAC,aAAa,CAAC,8BAAU,CAAC;QAC5E,MAAM,EAAE,CAAC,qBAAqB,CAAC;KAClC;CACF,CAAC"}
