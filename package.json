@@ -40,7 +40,7 @@
     "cucumber-pretty": "^6.0.0",
     "cucumber-tsflow": "^3.2.0",
     "mongodb": "^3.5.5",
-    "mosca": "^0.6.0",
+    "mosca": "^2.8.2",
     "mysql": "^2.18.1",
     "nestjs-console": "^8.0.0",
     "nestjs-redis": "^1.2.7",
