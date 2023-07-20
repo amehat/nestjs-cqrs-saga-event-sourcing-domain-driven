@@ -5,7 +5,7 @@ import { RedisModule } from 'nestjs-redis';
 
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
-import { ProductModule } from './infrastructure/product/produdct.module';
+import { ProductModule } from './infrastructure/product/product.module';
 import { CatalogModule } from './infrastructure/catalog/catalog.module';
 import { DatabaseModule } from './core/databases/database.module';
 import { DatabaseProvider } from './core/databases/database.provider';
